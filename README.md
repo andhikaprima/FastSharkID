@@ -14,5 +14,5 @@ Andhika P. Prasetyo1,2,3*, Marine Cusa1, Joanna M. Murray4, Firdaus Agung5, Efin
 8 - Department of Natural Sciences and the Environment, School of Science and Computing, Atlantic Technological University, Galway, Ireland <br>
 
 
-* Corresponding author. A. P. Prasetyo (andhika.prima.prasetyo@brin.go.id) 
-* † These authors have joint-last authorship
+*Corresponding author. A. P. Prasetyo (andhika.prima.prasetyo@brin.go.id) <br>
+† These authors have joint-last authorship

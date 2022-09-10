@@ -1,7 +1,6 @@
 # FastSharkID
 
-Script Materials for Manuscript: <br>
-
+Script materials for manuscript titled:<br>
 <b>Universal closed-tube barcoding for the monitoring of shark and ray trade in megadiverse conservation hotspots</b>
 
 Andhika P. Prasetyo1,2,3*, Marine Cusa1, Joanna M. Murray4, Firdaus Agung5, Efin Muttaqin6, Stefano Mariani7† and Allan D. McDevitt1,8†
